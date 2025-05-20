@@ -32,7 +32,7 @@ A RESTful API for managing book reviews, built with Node.js, Express, and MongoD
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/Dhaval-pathak/Book-Review-API.git
 cd book-review-api
 ```
 
@@ -57,7 +57,7 @@ npm run dev
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/Dhaval-pathak/Book-Review-API.git
 cd book-review-api
 ```
 
